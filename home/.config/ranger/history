@@ -1,0 +1,7 @@
+shell touch config
+rename config
+open_with 
+find 
+cd 
+shell touch Makefile
+bg
